@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SpringMVCDemo02_FormAction_Controller_BeanNameURLHM">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/SpringMVCDemo02_FormAction_Controller_BeanNameURLHM/build/classes"/>
+        <property name="context-root" value="SpringMVCDemo02_FormAction_Controller_BeanNameURLHM"/>
+    </wb-module>
+</project-modules>
